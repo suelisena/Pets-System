@@ -1,0 +1,2 @@
+INSERT INTO PETS(cor, especie, idade, nome, raca, tamanho) VALUES ('marrom', 'cachorro', '2', 'Lobinho','vila-lata', 'medio');
+INSERT INTO PETS (cor, especie, idade, nome, raca, tamanho) VALUES ('preto', 'gato', '12', 'Miau-Miau','vila-lata', 'pequeno');
